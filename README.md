@@ -18,4 +18,4 @@ Este proyecto utiliza Ciencia de Datos para identificar nichos de mercado estrat
 Se generó una lista de **159 prospectos VIP** con datos de contacto, permitiendo una prospección dirigida y reduciendo el riesgo de inversión inicial.
 
 ---
-*Análisis desarrollado por [Tu Nombre]*
+*Análisis desarrollado por Manuel Alejandro Jiménez Fuentes*
